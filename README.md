@@ -6,6 +6,7 @@ Automate the process of pushing solved problem files to your GitHub repository f
 
 - **Supported File Types**: Works for `.cpp` and `.py` files.
 - **Automatic Commits**: Each time you solve a problem and run the script, the file is uploaded to your GitHub repository with a commit message indicating the file's name.
+- **Git**: Must be installed and configured with your GitHub credentials.
 
 ## How to Use
 
@@ -24,9 +25,6 @@ Automate the process of pushing solved problem files to your GitHub repository f
 - If your directory path differs from the default one in the script ("C:\Codeforces_Solved_Problems"), I will add a config file in the
   later version, but for now you can rename or replace the directory according to the script's default one.
 
-## Requirements
-
-- **Git**: Must be installed and configured with your GitHub credentials.
 
 ## License
 
