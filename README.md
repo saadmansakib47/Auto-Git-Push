@@ -2,11 +2,10 @@
 
 Automate the process of pushing solved problem files to your GitHub repository for online judges like Codeforces or Leetcode.
 
-## Features
+## Important Notes
 
 - **Supported File Types**: Works for `.cpp` and `.py` files.
 - **Automatic Commits**: Each time you solve a problem and run the script, the file is uploaded to your GitHub repository with a commit message indicating the file's name.
-- **Customizable Folder Path**: Easily change the folder path in the configuration file to match your local directory structure.
 
 ## How to Use
 
